@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,32 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# CivicVoice
+Political website
+# MVP :
+- User Creation
+- Profile
+- Topics (favorite topics)
+- Topic creation (CRUD)
+- Trending topics
+- Follow up questions
+- User comment on topics
+
+# Nice to have:
+- More detailed characeristics
+- Skilled based matchmaking
+
+  # Week 1:
+  - Research framework
+  - Watch YT videos
+
+  # Week 2:
+  - Creating skeleton
+ 
+  # Week 3:
+    - Fleshing out pages (ex: home page, login page)
+      
+    
+    
+>>>>>>> 5a8fdfb75674a9d181466e72830d614b3c7753b6
